@@ -3,8 +3,6 @@
 #include <chrono>
 using namespace std;
 
-int seconds, minutes, hours;
-
 
 int main()
 {
